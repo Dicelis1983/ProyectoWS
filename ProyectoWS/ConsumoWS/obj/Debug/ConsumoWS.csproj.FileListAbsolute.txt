@@ -1,0 +1,13 @@
+C:\Users\yamorenom\Desktop\ProyectoWS\ProyectoWS\ConsumoWS\bin\Debug\ConsumoWS.exe.config
+C:\Users\yamorenom\Desktop\ProyectoWS\ProyectoWS\ConsumoWS\bin\Debug\ConsumoWS.exe
+C:\Users\yamorenom\Desktop\ProyectoWS\ProyectoWS\ConsumoWS\bin\Debug\ConsumoWS.pdb
+C:\Users\yamorenom\Desktop\ProyectoWS\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.csprojResolveAssemblyReference.cache
+C:\Users\yamorenom\Desktop\ProyectoWS\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.exe
+C:\Users\yamorenom\Desktop\ProyectoWS\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.pdb
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\bin\Debug\ConsumoWS.exe.config
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\bin\Debug\ConsumoWS.exe
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\bin\Debug\ConsumoWS.pdb
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.csprojAssemblyReference.cache
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.exe
+C:\Users\david\Desktop\ProyectoWS\ConsumoWS\obj\Debug\ConsumoWS.pdb
