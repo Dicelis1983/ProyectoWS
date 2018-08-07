@@ -17,7 +17,7 @@ Parte 2-El consumo del servicio: Esta parte del código es la que realiza la con
 2. Damos clic en el boton  Clone or download  y en la opción Download Zip
 3. Luego de descargar el repositorio lo extraemos en nuestro pc.
 4. En la carpeta  ProyectoWS  encontramos el archivo ejecutable ProyectoWS.sln
-5. Damos doble clic en ProyectoWS.sln , este se ejecuta a traves de Visual Studio ya que es una aplicación de consola.
+5. Damos doble clic en el archivo ProyectoWS.sln , este se ejecuta a traves de Visual Studio ya que es una aplicación de consola.
 
 
 
