@@ -8,6 +8,7 @@ En el repositorio ProyectoWS/ConsumoWS/Program.cs  encontramos el código fuente
 En el codigo consta de dos partes fundamentales:
 
 Parte 1: El programa: El cual toma el resultado arrojado por el servicio web y si es menor a 100 nos muestra inmediatamente el resultado, sino cumple la condición entra en un bucle que evalua la condición hasta que se cumpla y muestre el resultado correcto.
+
 Parte 2: El consumo de servicio: Esta parte del código es la que realiza la conexión  con el endpoint utilizando la url:http://34.209.24.195/facturas
 
 ## Ejecutar el Programa
