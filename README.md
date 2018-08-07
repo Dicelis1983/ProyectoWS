@@ -1,5 +1,5 @@
 # ProyectoWS
-Ejercico back-end Resuelve tu deuda
+Ejercicio back-end Resuelve tu deuda
 
 El  programa esta escrito en C# a traves de visual Studio.
 
