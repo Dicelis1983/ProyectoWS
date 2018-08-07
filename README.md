@@ -5,7 +5,7 @@ El  programa esta escrito en C# a traves de visual Studio.
 
 En el repositorio ProyectoWS/ConsumoWS/Program.cs  encontramos el código fuente  del programa.
 
-En el codigo consta de dos partes fundamentales:
+El código consta de dos partes fundamentales:
 
 Parte 1: El programa: El cual toma el resultado arrojado por el servicio web y si es menor a 100 nos muestra inmediatamente el resultado, sino cumple la condición entra en un bucle que evalua la condición hasta que se cumpla y muestre el resultado correcto.
 
