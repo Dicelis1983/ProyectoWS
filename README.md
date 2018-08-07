@@ -1,7 +1,7 @@
 # ProyectoWS
 Ejercico back-end Resuelve tu deuda
 
-Se escribe un programa en C# a traves de visual Studio.
+El  programa esta escrito en C# a traves de visual Studio.
 Dentro del repositorio ProyectoWS encontramos la carpeta ConsumoWS donde se ubica el archivo Programa.cs donde esta  el código fuente  del programa.
 En el codigo encontraremos dos partes fundamentales:
 1. El programa: El cual toma el resultado arrojado por el servicio web y si es menor a 100 nos muestra inmediatamente el resultado, sino cumple la condición entra en un bucle que evalua la condición hasta que se cumpla y muestre el resultado correcto.
